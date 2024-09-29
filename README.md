@@ -25,7 +25,5 @@ Key Insights:
 Digital Control Fundamentals: Blinking an LED demonstrates how microcontrollers like Arduino can control hardware through digital outputs, a basic concept for interacting with sensors, actuators, and more.
 Timing and Delays: The project highlights the importance of timing in embedded systems, using functions like delay() to control the frequency of actions, which is essential for real-world applications.
 
-
-
-
+![Screenshot 2024-09-29 104703](https://github.com/user-attachments/assets/7656bba3-aafd-4e46-9d2f-f5cecc224a61)
 
