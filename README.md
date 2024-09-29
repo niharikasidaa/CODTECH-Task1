@@ -50,7 +50,7 @@ void loop()
 Connect your Arduino to your computer using a USB cable.
 Select the correct board and port in the Arduino IDE.
 Click the Upload button to transfer the code to the Arduino.
-Once uploaded, the LED connected to pin 7 should start blinking on and off every second.
+Once uploaded, the LED connected to pin 8 should start blinking on and off every second.
 
 ![Screenshot 2024-09-29 104703](https://github.com/user-attachments/assets/7656bba3-aafd-4e46-9d2f-f5cecc224a61)
 
